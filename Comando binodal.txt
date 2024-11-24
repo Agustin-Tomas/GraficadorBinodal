@@ -1,0 +1,1 @@
+pyinstaller --onedir --noconsole --name graficador_binodal --icon C:\Users\Usuario\PycharmProjects\engi\triangle.ico --hidden-import=matplotlib --hidden-import=openpyxl C:\Users\Usuario\PycharmProjects\engi\binodal_excel.py
