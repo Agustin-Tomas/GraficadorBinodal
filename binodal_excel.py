@@ -4,9 +4,6 @@ import numpy as np
 from matplotlib import pyplot as plt
 from tkinter import filedialog
 from tkinter import Tk
-from tkinter import PhotoImage
-import base64
-import os
 
 
 class RealFunction(ABC):
